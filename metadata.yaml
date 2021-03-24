@@ -1,0 +1,24 @@
+_repo: The-Way-Back_64818
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moskowitz, Sam
+    alias: Moskowitz, Samuel Martin
+    birthdate: 1920
+    deathdate: 1997
+    gutenberg_agent_id: '51669'
+    url: http://www.gutenberg.org/2009/agents/51669
+    wikipedia: https://en.wikipedia.org/wiki/Sam_Moskowitz
+description: ''
+gutenberg_issued: '2021-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64818'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Way Back
+url: http://www.gutenberg.org/ebooks/64818
